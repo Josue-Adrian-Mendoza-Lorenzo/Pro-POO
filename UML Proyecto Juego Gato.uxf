@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>100</x>
+      <y>50</y>
+      <w>200</w>
+      <h>240</h>
+    </coordinates>
+    <panel_attributes>ElGato
+--
+-id: Long
+int turno = 1;
+int[,] Gato;
+int PuntosPlayer1 = 0;
+int PuntosPlayer2 = 0;
+bool YaHayGanador;
+
+--
+#Operation(i: int): int
+public void IniciarJuego()
+public void Jugar()
+public void VerificarJuego()
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
