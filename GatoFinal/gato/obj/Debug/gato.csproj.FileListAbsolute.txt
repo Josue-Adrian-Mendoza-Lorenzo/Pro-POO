@@ -1,0 +1,38 @@
+C:\Users\home\Documents\Poo\gato\gato\bin\Debug\gato.exe.config
+C:\Users\home\Documents\Poo\gato\gato\bin\Debug\gato.exe
+C:\Users\home\Documents\Poo\gato\gato\bin\Debug\gato.pdb
+C:\Users\home\Documents\Poo\gato\gato\obj\Debug\gato.csprojAssemblyReference.cache
+C:\Users\home\Documents\Poo\gato\gato\obj\Debug\gato.Form1.resources
+C:\Users\home\Documents\Poo\gato\gato\obj\Debug\gato.Properties.Resources.resources
+C:\Users\home\Documents\Poo\gato\gato\obj\Debug\gato.csproj.GenerateResource.cache
+C:\Users\home\Documents\Poo\gato\gato\obj\Debug\gato.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\Poo\gato\gato\obj\Debug\gato.exe
+C:\Users\home\Documents\Poo\gato\gato\obj\Debug\gato.pdb
+C:\Users\home\Documents\Poo\gato\gato\obj\Debug\gato.Nombre.resources
+F:\gato\gato\bin\Debug\gato.exe.config
+F:\gato\gato\bin\Debug\gato.exe
+F:\gato\gato\bin\Debug\gato.pdb
+F:\gato\gato\obj\Debug\gato.csprojAssemblyReference.cache
+F:\gato\gato\obj\Debug\gato.Form1.resources
+F:\gato\gato\obj\Debug\gato.Nombre.resources
+F:\gato\gato\obj\Debug\gato.Properties.Resources.resources
+F:\gato\gato\obj\Debug\gato.csproj.GenerateResource.cache
+F:\gato\gato\obj\Debug\gato.csproj.CoreCompileInputs.cache
+F:\gato\gato\obj\Debug\gato.exe
+F:\gato\gato\obj\Debug\gato.pdb
+E:\gato\gato\bin\Debug\gato.exe.config
+E:\gato\gato\obj\Debug\gato.exe
+E:\gato\gato\obj\Debug\gato.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proy\gato\gato\bin\Debug\gato.exe.config
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proy\gato\gato\obj\Debug\gato.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proy\gato\gato\obj\Debug\gato.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proy\gato\gato\bin\Debug\gato.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proy\gato\gato\bin\Debug\gato.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proy\gato\gato\obj\Debug\gato.csprojResolveAssemblyReference.cache
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proy\gato\gato\obj\Debug\gato.Nombre.resources
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proy\gato\gato\obj\Debug\gato.Properties.Resources.resources
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proy\gato\gato\obj\Debug\gato.csproj.GenerateResource.Cache
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proy\gato\gato\obj\Debug\gato.Gato.resources
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proyecto\Pro-POO\GatoFinal\gato\bin\Debug\gato.exe.config
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proyecto\Pro-POO\GatoFinal\gato\obj\Debug\gato.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Proyecto\Pro-POO\GatoFinal\gato\obj\Debug\gato.pdb
